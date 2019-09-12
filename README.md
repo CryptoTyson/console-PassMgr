@@ -23,6 +23,9 @@ MODULES:
  Delete Permanently: User can delete their account permanently.
 
  View Accounts : User can view their saved accounts.
+
  Forgot Password : User can reset their password by answering security questions.
+
  Change Username : User will be able to change username of their saved accounts
+
  Change Password : User will be able to change password of their saved accounts.
