@@ -13,10 +13,15 @@ leaks.
 MODULES:
 
  Sign in : User will login using a secure Master Password.
+
  Sign up : User can create a new account using a unique Username.
+
  Add Account : User will be able to add any number of accounts to their account list.
+
  Delete Account : User can delete their saved account.
- Delete Permanently: User can delete their account permanently;
+
+ Delete Permanently: User can delete their account permanently.
+
  View Accounts : User can view their saved accounts.
  Forgot Password : User can reset their password by answering security questions.
  Change Username : User will be able to change username of their saved accounts
